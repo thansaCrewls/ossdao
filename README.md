@@ -7,7 +7,7 @@ OSSDAO.org
 **DOWNLOAD** this repository and **UPLOAD** to your new own repository to make the changes in your local system.
 
 ```git-bash
-git clone https://github.com/YOUR-USERNAME/ossdao
+git clone https://github.com/thansaCrewls/ossdao
 cd ossdao
 ```
 
